@@ -41,3 +41,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+*.iml
+.idea/.name
+.idea/artifacts/AngularJS_war.xml
+.idea/artifacts/AngularJS_war_exploded.xml
+.idea/*
+
+target/*
